@@ -13,6 +13,6 @@ Installation:
 
 ## ESM1v scores with mutation scoring   
 <code>conda activate esmenv</code>   
-<code> python esm_indel.py proteins --wt-id WT --epistasis --pairwise --out-dir .</code>   
+<code> python esm_indel.py proteins.fasta --wt-id WT --epistasis --pairwise --out-dir .</code>   
    
 Note that this script requires a wild-type to normalize the PLL scores; the ID of the wt must be declared with the flag --wt-id 
