@@ -1,6 +1,7 @@
 # EMS1v scoring and ESM2 embeding calculation
 
-Installation:  <code>conda env create -f env.yml</code>
+Installation:   
+<code>conda env create -f env.yml</code>
 
 ## ESM1v scores:   
 <code>conda activate esmenv</code>
